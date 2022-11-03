@@ -1,0 +1,14 @@
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\bin\Debug\net6.0\VaccineAnalysis.Core.deps.json
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\bin\Debug\net6.0\VaccineAnalysis.Core.runtimeconfig.json
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\bin\Debug\net6.0\VaccineAnalysis.Core.dll
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\bin\Debug\net6.0\VaccineAnalysis.Core.pdb
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.csproj.AssemblyReference.cache
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.AssemblyInfoInputs.cache
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.AssemblyInfo.cs
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.csproj.CoreCompileInputs.cache
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.dll
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\refint\VaccineAnalysis.Core.dll
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.pdb
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\VaccineAnalysis.Core.genruntimeconfig.cache
+D:\Lab\VaccineAnalysis\VaccineAnalysis.Core\obj\Debug\net6.0\ref\VaccineAnalysis.Core.dll

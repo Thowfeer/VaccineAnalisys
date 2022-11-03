@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R9eI08DRzJ+fYh6t56F/QGj6a/PMB07taZPYt4PJWmo=",
+  "Source": "VaccineAnalysis.API",
+  "BasePath": "_content/VaccineAnalysis.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
